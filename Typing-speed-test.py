@@ -1,3 +1,5 @@
+#Typing Speed Test Game with Python
+
 from time import time
 
 # calculate the accuracy of input prompt
