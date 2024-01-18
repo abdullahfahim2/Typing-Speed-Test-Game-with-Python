@@ -43,7 +43,7 @@ def timeElapsed(stime, etime):
     return time
 
 if __name__ == '__main__':
-    prompt = "Hi, my name is Abdullah Fahim , I am a coding instructor."
+    prompt = "Hi, my name is Abdullah Fahim , I am a Python Programming Trainer in Sheikh Russel School Of Future at Bangladesh ICT Ministry."
     print("Type this:- ", prompt)
 
     # listening to input ENTER
